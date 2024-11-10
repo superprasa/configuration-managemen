@@ -1,0 +1,3 @@
+varaible2 =value2
+varaible3=value3
+varaible4 =value4
